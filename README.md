@@ -1,2 +1,2 @@
 # Formulário
-<img src="form.png">
+<img src="form.png" alt="Formulário">
